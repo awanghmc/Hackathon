@@ -3,4 +3,6 @@ Hackathon
 
 Projects for Hackathon
 
-Python Stock Market Simulation
+Python Stock Market Simulation Game
+
+
